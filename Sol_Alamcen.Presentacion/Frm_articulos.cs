@@ -55,7 +55,7 @@ namespace Sol_Alamcen.Presentacion
         private void Frm_Articulos_load(object sender, EventArgs e)
         {
             this.Listado_ar("%");
-
+            this.Listado_ar("%");
         }
     }
 }
