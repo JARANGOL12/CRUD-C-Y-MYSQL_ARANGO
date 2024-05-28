@@ -1,0 +1,46 @@
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.exe.config
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.exe
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.pdb
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\MySql.Data.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Google.Protobuf.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\ZstdNet.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\System.Buffers.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\MySql.Data.xml
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.AssemblyReference.cache
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe.config
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Frm_articulos.resources
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Properties.Resources.resources
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.GenerateResource.cache
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alam.B51F971F.Up2Date
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe
+D:\Proyectos Visual Estudio\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.pdb
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.exe.config
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.exe
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Sol_Alamcen.Presentacion.pdb
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\MySql.Data.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Google.Protobuf.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\ZstdNet.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\Ubiety.Dns.Core.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\System.Buffers.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Compression.LZ4.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\K4os.Hash.xxHash.dll
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\Debug\MySql.Data.xml
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.AssemblyReference.cache
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.SuggestedBindingRedirects.cache
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe.config
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Frm_articulos.resources
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Properties.Resources.resources
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.GenerateResource.cache
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.CoreCompileInputs.cache
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alam.B51F971F.Up2Date
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.pdb
