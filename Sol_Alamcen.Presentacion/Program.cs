@@ -16,7 +16,7 @@ namespace Sol_Alamcen.Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_articulos());
+            Application.Run(new btnMedida());
         }
     }
 }

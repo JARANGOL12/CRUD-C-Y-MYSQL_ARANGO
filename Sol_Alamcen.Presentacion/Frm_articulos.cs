@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Sol_Alamcen.Presentacion
 {
-    public partial class Frm_articulos : Form
+    public partial class btnMedida : Form
     {
-        public Frm_articulos()
+        public btnMedida()
         {
             InitializeComponent();
         }
@@ -44,8 +44,46 @@ namespace Sol_Alamcen.Presentacion
 
 
         }
+         private void Estado_texto(bool lEstado)
+        {
+            
+            txtArticulo.ReadOnly = !lEstado;
+            txtMarca.ReadOnly = !lEstado;
+            txtStock_Actual.ReadOnly = !lEstado;
+        }
 
+        private void Estado_botones_procesos(bool lEstado)
+        {
+            BtnMedida_um.Enabled=lEstado;
+            btnCategoria.Enabled=lEstado;
+            btnCancelar.Visible=lEstado;
+            btnAgregar.Visible=lEstado;
+            // otros detalles
+            txtBuscar.ReadOnly = lEstado;
+            bntBuscar.Enabled = !lEstado;
+            Dvg_articulos.Enabled = !lEstado;
 
+        }
+        private void Limpia_texto()
+        {
+            txtArticulo.Text = "";
+            txtMarca.Text ="";
+            txtDescripcion_um.Text="";
+            txtDescripcion_ar.Text="";
+            txtStock_Actual.Text="";
+
+        }
+
+        private void Estado_botones_principales(bool lEstado)
+        {
+            btnNuevo.Enabled=lEstado;
+            bntActualizar.Enabled=lEstado;
+            btnEliminar.Enabled=lEstado;
+            bntReporte.Enabled=lEstado;
+            btnSalir.Enabled=lEstado;
+
+        }
+        
 
         private void label2_Click(object sender, EventArgs e)
         {
@@ -55,7 +93,27 @@ namespace Sol_Alamcen.Presentacion
         private void Frm_Articulos_load(object sender, EventArgs e)
         {
             this.Listado_ar("%");
-            this.Listado_ar("%");
+            
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+             this.Limpia_texto();
+            this.Estado_texto(true);
+            this.Estado_botones_procesos(true);
+            this.Estado_botones_principales(false);
+            txtArticulo.Focus();
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Limpia_texto();
+            this.Estado_texto(false);
+            this.Estado_botones_procesos(false);
+            this.Estado_botones_principales(true);
+            txtBuscar.Focus();
+
+
         }
     }
 }

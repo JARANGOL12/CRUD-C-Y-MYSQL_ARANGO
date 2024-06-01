@@ -37,10 +37,10 @@ E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\bin\De
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.AssemblyReference.cache
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.SuggestedBindingRedirects.cache
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe.config
-E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Frm_articulos.resources
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.Properties.Resources.resources
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.GenerateResource.cache
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.csproj.CoreCompileInputs.cache
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alam.B51F971F.Up2Date
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.exe
 E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.pdb
+E:\CURSO COMPLETO DE C# CRUD Y MYSQL\Sol_Alamcen\Sol_Alamcen.Presentacion\obj\Debug\Sol_Alamcen.Presentacion.btnMedida.resources
