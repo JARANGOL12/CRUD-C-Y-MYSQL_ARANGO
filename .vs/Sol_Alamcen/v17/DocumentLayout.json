@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|e:\\curso completo de c# crud y mysql\\sol_alamcen\\sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\d_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\d_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\frm_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\p_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\p_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\d_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|solutionrelative:sol_alamcen.presentacion\\d_articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{423F9D22-0946-4769-B962-9DE849C60F6F}|Sol_Alamcen.Presentacion\\Sol_Alamcen.Presentacion.csproj|E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\sol_alamcen.presentacion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,39 +50,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "D_Articulos.cs",
               "DocumentMoniker": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\D_Articulos.cs",
               "RelativeDocumentMoniker": "Sol_Alamcen.Presentacion\\D_Articulos.cs",
-              "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\D_Articulos.cs",
-              "RelativeToolTip": "Sol_Alamcen.Presentacion\\D_Articulos.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADgAAAABAAAA",
+              "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\D_Articulos.cs*",
+              "RelativeToolTip": "Sol_Alamcen.Presentacion\\D_Articulos.cs*",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAQwGEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:17:21.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T23:17:21.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Frm_articulos.cs",
               "DocumentMoniker": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\Frm_articulos.cs",
               "RelativeDocumentMoniker": "Sol_Alamcen.Presentacion\\Frm_articulos.cs",
               "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\Frm_articulos.cs",
               "RelativeToolTip": "Sol_Alamcen.Presentacion\\Frm_articulos.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDMAAAAwAAAA",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAwwK8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:09:35.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "P_Articulos.cs",
               "DocumentMoniker": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\P_Articulos.cs",
               "RelativeDocumentMoniker": "Sol_Alamcen.Presentacion\\P_Articulos.cs",
-              "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\P_Articulos.cs",
-              "RelativeToolTip": "Sol_Alamcen.Presentacion\\P_Articulos.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAAAAAA",
+              "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\P_Articulos.cs*",
+              "RelativeToolTip": "Sol_Alamcen.Presentacion\\P_Articulos.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T21:37:38.483Z"
             },
@@ -94,7 +93,7 @@
               "RelativeDocumentMoniker": "Sol_Alamcen.Presentacion\\Conexion.cs",
               "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\Conexion.cs",
               "RelativeToolTip": "Sol_Alamcen.Presentacion\\Conexion.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDUAAAAZAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T01:52:23.019Z"
             },
@@ -112,15 +111,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Frm_articulos.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\Frm_articulos.cs",
               "RelativeDocumentMoniker": "Sol_Alamcen.Presentacion\\Frm_articulos.cs",
               "ToolTip": "E:\\CURSO COMPLETO DE C# CRUD Y MYSQL\\Sol_Alamcen\\Sol_Alamcen.Presentacion\\Frm_articulos.cs [Dise\u00F1o]",
               "RelativeToolTip": "Sol_Alamcen.Presentacion\\Frm_articulos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T01:50:03.179Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-26T01:50:03.179Z"
             }
           ]
         }

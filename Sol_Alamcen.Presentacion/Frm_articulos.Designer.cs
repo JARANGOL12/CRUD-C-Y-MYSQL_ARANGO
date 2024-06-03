@@ -64,6 +64,7 @@
             this.Dvg_articulos.ReadOnly = true;
             this.Dvg_articulos.Size = new System.Drawing.Size(722, 197);
             this.Dvg_articulos.TabIndex = 0;
+            this.Dvg_articulos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Dvg_articulos_CellClick);
             // 
             // txtArticulo
             // 
@@ -147,6 +148,7 @@
             this.btnAgregar.TabIndex = 12;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnCancelar
             // 
@@ -226,6 +228,7 @@
             this.bntActualizar.TabIndex = 22;
             this.bntActualizar.Text = "Actualizar";
             this.bntActualizar.UseVisualStyleBackColor = true;
+            this.bntActualizar.Click += new System.EventHandler(this.bntActualizar_Click);
             // 
             // bntReporte
             // 
@@ -253,6 +256,7 @@
             this.btnEliminar.TabIndex = 25;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnMedida
             // 
